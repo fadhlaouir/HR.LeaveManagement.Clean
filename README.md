@@ -1,6 +1,3 @@
-Sure, here is the README content formatted with triple backticks for direct copying:
-
-```
 # Leave Management System
 
 ## Overview
@@ -104,5 +101,3 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a pull request
-
-```
